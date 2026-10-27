@@ -1,0 +1,91 @@
+'== Top components per model =='
+--------------------------------
+== Top components per model ==
+ model               component                n
+-------  ----------------------------------  ---
+camry    POWER TRAIN                         199
+camry    ENGINE                              137
+camry    SERVICE BRAKES                      130
+camry    UNKNOWN OR OTHER                     97
+camry    FUEL/PROPULSION SYSTEM               75
+camry    VEHICLE SPEED CONTROL                74
+camry    ELECTRICAL SYSTEM                    68
+camry    STEERING                             61
+camry    FORWARD COLLISION AVOIDANCE          45
+camry    SERVICE BRAKES, HYDRAULIC            38
+camry    FUEL SYSTEM, GASOLINE                29
+camry    VISIBILITY/WIPER                     22
+camry    AIR BAGS                             22
+civic    STEERING                            224
+civic    UNKNOWN OR OTHER                    105
+civic    FUEL SYSTEM, GASOLINE                89
+civic    FUEL/PROPULSION SYSTEM               70
+civic    ELECTRICAL SYSTEM                    51
+civic    ENGINE                               50
+civic    AIR BAGS                             20
+corolla  AIR BAGS                             36
+corolla  FUEL/PROPULSION SYSTEM               23
+cr-v     ENGINE                              530
+cr-v     FORWARD COLLISION AVOIDANCE         395
+cr-v     FUEL/PROPULSION SYSTEM              376
+cr-v     STEERING                            333
+cr-v     ELECTRICAL SYSTEM                   285
+cr-v     FUEL SYSTEM, GASOLINE               232
+cr-v     UNKNOWN OR OTHER                    209
+cr-v     SERVICE BRAKES                      186
+cr-v     VEHICLE SPEED CONTROL                65
+cr-v     POWER TRAIN                          64
+cr-v     LANE DEPARTURE                       46
+cr-v     VISIBILITY/WIPER                     35
+cr-v     ELECTRONIC STABILITY CONTROL (ESC)   30
+cr-v     STRUCTURE                            27
+cr-v     SEAT BELTS                           25
+cr-v     AIR BAGS                             22
+rav4     ELECTRICAL SYSTEM                   130
+rav4     UNKNOWN OR OTHER                     69
+rav4     ENGINE                               33
+rav4     SERVICE BRAKES                       28
+rav4     POWER TRAIN                          26
+rav4     EXTERIOR LIGHTING                    23
+rav4     VEHICLE SPEED CONTROL                20
+'== Crash, fire, injuries by model =='
+--------------------------------------
+== Crash, fire, injuries by model ==
+ model   complaints  crash_pct  fire_pct  injuries  deaths
+-------  ----------  ---------  --------  --------  ------
+corolla         135       19.3       3.7        17       1
+rav4            333        9.3       9.9        18       0
+camry           751        6.1       0.5        45       0
+civic           596        4.2       0.7        21       1
+cr-v           2161        2.1       0.1        47       0
+'== RAV4 fire complaints by component =='
+-----------------------------------------
+== RAV4 fire complaints by component ==
+      component         n
+----------------------  --
+ELECTRICAL SYSTEM       23
+ENGINE                  11
+UNKNOWN OR OTHER         8
+STEERING                 2
+SERVICE BRAKES           2
+STRUCTURE                1
+LANE DEPARTURE           1
+FUEL/PROPULSION SYSTEM   1
+FIRERELATED              1
+EXTERIOR LIGHTING        1
+EQUIPMENT                1
+'== Complaints by filed year =='
+--------------------------------
+== Complaints by filed year ==
+year  crv  camry  civic  rav4  corolla  total
+----  ---  -----  -----  ----  -------  -----
+2017    2      7      1     2        0     12
+2018  263    100     26    30       17    436
+2019  319     92     41    47       22    521
+2020  113    106     39    31       45    334
+2021  106     96     51    42        7    302
+2022  258     78     46    27       12    421
+2023  211     56     90    34       12    403
+2024  397     59    223    45        7    731
+2025  281     74     79    56        6    496
+2026  211     83      0    19        7    320
